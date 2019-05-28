@@ -1,3 +1,9 @@
+# Pickle files
+*.pkl
+
+# TOO big to put on Github (More than 100 MB)
+train.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
